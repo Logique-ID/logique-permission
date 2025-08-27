@@ -530,25 +530,6 @@ Check the `examples/` directory for complete usage examples:
 - `database/package.json` - PostgreSQL dependencies
 - `database/README.md` - Detailed PostgreSQL setup guide
 
-### Quick Start with PostgreSQL
-
-1. **Install dependencies:**
-```bash
-cd examples/database
-npm install
-```
-
-2. **Setup database:**
-```bash
-npm run setup-db
-npm run migrate
-```
-
-3. **Run example:**
-```bash
-npm start
-```
-
 ## Contributing
 
 1. Fork the repository
