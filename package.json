@@ -1,7 +1,7 @@
 {
   "name": "logique-permission",
-  "version": "1.0.0",
-  "description": "Role-Based Access Control (RBAC) package for Node.js inspired by Laravel Spatie",
+  "version": "1.0.1",
+  "description": "Role-Based Access Control (RBAC) package for Node.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
